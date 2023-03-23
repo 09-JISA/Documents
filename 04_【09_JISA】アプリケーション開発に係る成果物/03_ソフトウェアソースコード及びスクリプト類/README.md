@@ -1,10 +1,10 @@
 # ソフトウェアソースコード及びスクリプト類
 
-[法人Wallet]
+[法人 Wallet]
 
 https://github.com/09-JISA/corp-wallet
 
-[全国のIT企業等の設備メーカー等 Issuer]
+[全国の IT 企業等の設備メーカー等 Issuer]
 
 https://github.com/09-JISA/issuer-web-maker
 
